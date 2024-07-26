@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="https://x.com/RudraPrasad_22"><img src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/rudra-prasad-2a773b289/"><img src="https://img.shields.io/badge/-Linkedin-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="Linkedin"></a>
-  <a href="mailto:rudraprasad2222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F3F7FA?logo=gmail&logoColor=EA4335&style=for-the-badge&logoWidth=30" alt="azanulhaque@gmail.com"></a>
+  <a href="mailto:rudrapanigrahy2222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F3F7FA?logo=gmail&logoColor=EA4335&style=for-the-badge&logoWidth=30" alt="azanulhaque@gmail.com"></a>
 </p>
 
 ![R2LDivider](https://user-images.githubusercontent.com/42029519/193863609-ff995ff9-53ee-426d-8591-be35005f5b5d.svg)
